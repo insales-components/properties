@@ -1,0 +1,14 @@
+{
+  "plugins": {
+    "name": "С плагинами"
+  },
+  "adaptive": {
+    "name": "Адаптивный"
+  },
+  "common": {
+    "name": "Требует библиотеку commonV2"
+  },
+  "liquid": {
+    "name": "Только liquid"
+  }
+}
